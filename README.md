@@ -1,6 +1,6 @@
 <h1> Work Scheduler Daily </h1>
 
-This project helps me learn how to intigrate the Day.js functions into a given calendar. 
+This project helps me learn how to intigrate jQuery, bootstraps, Google Fonts, jquery UI, and Day.js functions into a given calendar. 
 
 <h1> User Story </h1>
 
